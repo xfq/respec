@@ -3,7 +3,6 @@
  *
  * Performs syntax highlighting to all pre and code elements.
  */
-import "deps/regenerator";
 import ghCss from "deps/text!core/css/github.css";
 import { makeOwnerSwapper } from "core/utils";
 import { pub, sub } from "core/pubsubhub";
